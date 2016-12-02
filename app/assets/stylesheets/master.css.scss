@@ -99,6 +99,10 @@ h2 span {
   }
 }
 
+@-ms-viewport{
+  width: device-width;
+}
+
 ::selection {
   background-color: #f84342;
   }
